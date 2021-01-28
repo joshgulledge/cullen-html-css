@@ -1,7 +1,25 @@
 #red {
   background-color: red;
+  width: 25%;
+}
+
+#name {
+  background-color: chartreuse;
 }
 
 #table-world {
   background-color: blue;
+}
+
+.special {
+  border: 3px solid darkorchid;
+  border-radius: 5px;
+}
+
+h1.special {
+  background-color: darkturquoise;
+}
+
+.list:hover {
+  background-color: hotpink;
 }
